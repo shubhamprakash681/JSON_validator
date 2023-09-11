@@ -1,5 +1,6 @@
 import json
 import jsonschema
+import os
 
 def validate_json(json_data, schema_data):
     try:
@@ -27,9 +28,10 @@ def validate_json(json_data, schema_data):
     except Exception as e:
         print('Error: ', e)
 
+
 if __name__ == '__main__':
-    json_doc_path = ''
-    json_schema_path = ''
+    json_doc_path = os.path.join(os.path.dirname(__file__), 'sample_doc', 'valid', 'TransactionEventResponse', 'TransactionEventResponse.txt')
+    json_schema_path = os.path.join(os.path.dirname(__file__), 'sample_schema', 'TransactionEventResponse', 'TransactionEventResponse.json')
 
     # reading both files
     with open(json_doc_path, 'r') as json_file, open(json_schema_path, 'r') as schema_file:
