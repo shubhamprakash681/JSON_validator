@@ -19,7 +19,11 @@ if __name__ == '__main__':
                 json_dta = json_file.read()
                 schema_dta = schema_file.read()
 
+            print('Result for JSON: ', json_doc_path, ':')
             # function call
             validate_json(json_dta, schema_dta)
+
+            # sep line
+            print()
 
         # invalid docs
