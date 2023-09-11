@@ -26,17 +26,23 @@ def validate_json(json_data, schema_data):
     except json.JSONDecodeError as e:
         print('Error Decoding JSON: ', e)
     except Exception as e:
-        print('Error: ', e)
+        print('Error here: ', e)
 
 
 if __name__ == '__main__':
-    json_doc_path = os.path.join(os.path.dirname(__file__), 'sample_doc', 'valid', 'TransactionEventResponse', 'TransactionEventResponse.txt')
-    json_schema_path = os.path.join(os.path.dirname(__file__), 'sample_schema', 'TransactionEventResponse', 'TransactionEventResponse.json')
+    # json_doc_path = os.path.join(os.path.dirname(__file__), 'sample_doc', 'valid', 'TransactionEventResponse', 'TransactionEventResponse.txt')
+    # json_schema_path = os.path.join(os.path.dirname(__file__), 'sample_schema', 'TransactionEventResponse', 'TransactionEventResponse.json')
+
+    json_doc_path = 'TransactionEventRequest_2.txt'
+    json_schema_path = 'TransactionEventRequest.json'
 
     # reading both files
-    with open(json_doc_path, 'r') as json_file, open(json_schema_path, 'r') as schema_file:
+    with open(json_doc_path, 'r', encoding='utf-8') as json_file, open(json_schema_path, 'r', encoding='utf-8') as schema_file:
         json_data = json_file.read()
         schema_data = schema_file.read()
 
-    # function call
-    validate_json(json_data, schema_data)
+        # print(schema_data)
+
+        # function call
+        validate_json(json_data, schema_data)
+    
