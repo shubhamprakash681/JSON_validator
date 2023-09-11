@@ -1,0 +1,42 @@
+{
+  "totalCost": -11144780.076790363,
+  "idTokenInfo": {
+    "status": "NoCredit",
+    "evseId": [
+      -22223995,
+      14441728,
+      17142734,
+      -3493369,
+      18002370
+    ],
+    "language1": "inci",
+    "chargingPriority": -62857939,
+    "groupIdToken": {
+      "idToken": "ut labore",
+      "type": "Local",
+      "additionalInfo": [
+        {
+          "additionalIdToken": "magna ",
+          "type": "tempor"
+        }
+      ]
+    },
+    "personalMessage": {
+      "format": "UTF8",
+      "content": "Excepteur eu fugiat reprehenderit",
+      "language": "quis off",
+      "customData": {
+        "vendorId": "ad ut"
+      }
+    },
+    "language2": "veniam"
+  },
+  "updatedPersonalMessage": {
+    "format": "ASCII",
+    "content": "voluptate laboris est quis aliqua",
+    "customData": {
+      "vendorId": "et occaecat eu quis"
+    },
+    "language": "vel"
+  }
+}

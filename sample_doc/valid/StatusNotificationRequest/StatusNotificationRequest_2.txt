@@ -1,0 +1,9 @@
+{
+  "timestamp": "1948-03-11T04:48:16.0Z",
+  "connectorStatus": "Unavailable",
+  "evseId": 1991146,
+  "connectorId": 12238115,
+  "customData": {
+    "vendorId": "Excepteur ipsum ad"
+  }
+}

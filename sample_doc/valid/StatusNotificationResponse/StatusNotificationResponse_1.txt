@@ -1,0 +1,5 @@
+{
+  "customData": {
+    "vendorId": "dolore aliqua"
+  }
+}

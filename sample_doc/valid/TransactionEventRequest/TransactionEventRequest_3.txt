@@ -1,0 +1,111 @@
+{
+  "eventType": "Ended",
+  "timestamp": "1956-09-03T14:26:39.0Z",
+  "triggerReason": "EVDetected",
+  "seqNo": 22597431,
+  "transactionInfo": {
+    "transactionId": "ut Excepteur officia consequat",
+    "stoppedReason": "Reboot"
+  },
+  "reservationId": -94673438,
+  "meterValue": [
+    {
+      "timestamp": "1973-06-13T01:32:40.0Z",
+      "sampledValue": [
+        {
+          "value": -16242083.718066975,
+          "unitOfMeasure": {
+            "unit": "labore et temp"
+          },
+          "customData": {
+            "vendorId": "magna Ut voluptate"
+          },
+          "measurand": "Frequency"
+        },
+        {
+          "value": -52503955.88701378
+        },
+        {
+          "value": 49311145.4859691,
+          "phase": "L1-N",
+          "context": "Other",
+          "measurand": "Energy.Apparent.Import",
+          "customData": {
+            "vendorId": "ea aute sint"
+          },
+          "location": "EV",
+          "unitOfMeasure": {
+            "multiplier": 6580468
+          },
+          "signedMeterValue": {
+            "signedMeterData": "in deserunt sint est aute",
+            "signingMethod": "qui aliqua sint",
+            "encodingMethod": "dolor",
+            "publicKey": "et qui est"
+          }
+        }
+      ]
+    },
+    {
+      "timestamp": "1993-10-10T04:40:26.0Z",
+      "sampledValue": [
+        {
+          "value": 44077790.92123237,
+          "measurand": "Frequency",
+          "signedMeterValue": {
+            "signedMeterData": "ipsum mollit pariatur",
+            "signingMethod": "aliqua elit labore reprehenderit cupid",
+            "encodingMethod": "ullamco ea quis",
+            "publicKey": "ullamco"
+          },
+          "context": "Transaction.End",
+          "customData": {
+            "vendorId": "ut sit commodo ad"
+          },
+          "phase": "L3-L1",
+          "location": "EV",
+          "unitOfMeasure": {
+            "unit": "sint "
+          }
+        },
+        {
+          "value": 95650850.01474923
+        }
+      ]
+    }
+  ],
+  "idToken": {
+    "idToken": "tempor ulla",
+    "type": "NoAuthorization",
+    "additionalInfo": [
+      {
+        "additionalIdToken": "incididunt sit aliquip adi",
+        "type": "exercitation"
+      },
+      {
+        "additionalIdToken": "ut",
+        "type": "consequat mollit esse aliqua eiu"
+      },
+      {
+        "additionalIdToken": "quis",
+        "type": "do i"
+      },
+      {
+        "additionalIdToken": "labore eiusm",
+        "type": "consectetur sit labore"
+      }
+    ],
+    "customData": {
+      "vendorId": "esse qui in ut deserunt"
+    }
+  },
+  "customData": {
+    "vendorId": "Ut ea in exercitation"
+  },
+  "offline": true,
+  "numberOfPhasesUsed": 63127733,
+  "cableMaxCurrent": 18438166,
+  "evse": {
+    "id": 23786400
+  }
+}

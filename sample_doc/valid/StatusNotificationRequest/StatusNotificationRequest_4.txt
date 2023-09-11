@@ -1,0 +1,9 @@
+{
+  "timestamp": "1990-08-23T23:18:28.0Z",
+  "connectorStatus": "Available",
+  "evseId": 47676177,
+  "connectorId": 43486668,
+  "customData": {
+    "vendorId": "ut proident dolore velit"
+  }
+}

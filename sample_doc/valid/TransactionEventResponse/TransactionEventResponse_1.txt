@@ -1,0 +1,33 @@
+{
+  "customData": {
+    "vendorId": "nostrud eu"
+  },
+  "totalCost": -61572732.46244159,
+  "chargingPriority": 22667659,
+  "idTokenInfo": {
+    "status": "NoCredit",
+    "language2": "fug",
+    "chargingPriority": -43172243,
+    "customData": {
+      "vendorId": "reprehenderit"
+    },
+    "language1": "",
+    "cacheExpiryDateTime": "1978-03-17T15:25:48.0Z",
+    "personalMessage": {
+      "format": "URI",
+      "content": "nulla officia sunt occaecat",
+      "customData": {
+        "vendorId": "in mollit aute"
+      }
+    },
+    "groupIdToken": {
+      "idToken": "cupidatat magna ",
+      "type": "NoAuthorization"
+    }
+  },
+  "updatedPersonalMessage": {
+    "format": {},
+    "content": "voluptate esse",
+    "language": "do "
+  }
+}

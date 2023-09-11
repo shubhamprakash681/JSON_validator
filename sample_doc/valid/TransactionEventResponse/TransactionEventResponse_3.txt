@@ -1,0 +1,26 @@
+{
+  "idTokenInfo": {
+    "status": "ConcurrentTx",
+    "evseId": [
+      -29354139,
+      -51875801
+    ],
+    "language2": "ipsum Lo",
+    "customData": {
+      "vendorId": "ipsum est in"
+    },
+    "language1": "n",
+    "cacheExpiryDateTime": "1957-11-26T15:07:03.0Z",
+    "groupIdToken": {
+      "idToken": "laborum enim",
+      "type": "Central"
+    },
+    "chargingPriority": -14765128
+  },
+  "updatedPersonalMessage": {
+    "format": "URI",
+    "content": "Excepteur id deserunt s"
+  },
+  "chargingPriority": -27720045,
+  "totalCost": -40793306.79919156
+}

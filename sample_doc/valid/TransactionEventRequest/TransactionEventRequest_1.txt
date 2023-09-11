@@ -1,0 +1,192 @@
+{
+  "eventType": "Ended",
+  "timestamp": "1984-11-17T23:38:49.0Z",
+  "triggerReason": "ChargingRateChanged",
+  "seqNo": 11698840,
+  "transactionInfo": {
+    "transactionId": "sunt Ut esse Excepteur",
+    "customData": {
+      "vendorId": "consequat"
+    }
+  },
+  "reservationId": -48635947,
+  "cableMaxCurrent": -18472231,
+  "offline": false,
+  "evse": {
+    "id": 8749159,
+    "connectorId": -96617724,
+    "customData": {
+      "vendorId": "tempor adipisicing proident minim Excepteur"
+    }
+  },
+  "customData": {
+    "vendorId": "sint ea"
+  },
+  "meterValue": [
+    {
+      "timestamp": "2017-02-26T18:31:54.0Z",
+      "sampledValue": [
+        {
+          "value": 71465294.1399228,
+          "measurand": "Power.Reactive.Export",
+          "phase": "L2",
+          "unitOfMeasure": {
+            "unit": "non pariatur"
+          }
+        },
+        {
+          "value": 70508752.7700268
+        },
+        {
+          "value": -78475389.10000758,
+          "measurand": "Voltage",
+          "unitOfMeasure": {
+            "unit": "ex",
+            "multiplier": -66302269
+          },
+          "signedMeterValue": {
+            "signedMeterData": "ut eu",
+            "signingMethod": "ma",
+            "encodingMethod": "sed exerci",
+            "publicKey": "dolor officia"
+          },
+          "context": "Trigger"
+        },
+        {
+          "value": -26366165.545818493,
+          "signedMeterValue": {
+            "signedMeterData": "nostrud dolore quis cupidatat nulla",
+            "signingMethod": "ut qui enim incididunt laborum",
+            "encodingMethod": "pariatur labore elit Duis dolor",
+            "publicKey": "pariatur do nisi"
+          },
+          "measurand": "Power.Offered",
+          "location": "Outlet",
+          "customData": {
+            "vendorId": "culpa ut dolor"
+          },
+          "phase": "L1-N"
+        },
+        {
+          "value": 22939989.613602445
+        }
+      ]
+    },
+    {
+      "timestamp": "2001-07-25T03:17:56.0Z",
+      "sampledValue": [
+        {
+          "value": -20371236.519638017,
+          "phase": "L3-N"
+        },
+        {
+          "value": -95383777.27754237
+        },
+        {
+          "value": -90315559.6375477,
+          "signedMeterValue": {
+            "signedMeterData": "proident Ut",
+            "signingMethod": "magna",
+            "encodingMethod": "in",
+            "publicKey": "eu in do"
+          },
+          "customData": {
+            "vendorId": "dolore magna laborum proident"
+          },
+          "context": "Transaction.End",
+          "measurand": "Energy.Active.Export.Interval"
+        },
+        {
+          "value": 90443884.5754492,
+          "phase": "L1-L2",
+          "customData": {
+            "vendorId": "fugiat commodo"
+          },
+          "measurand": "Energy.Reactive.Import.Interval"
+        },
+        {
+          "value": -2611273.5239865333,
+          "phase": "L1-L2",
+          "unitOfMeasure": {
+            "unit": "qui",
+            "multiplier": -32998872
+          },
+          "signedMeterValue": {
+            "signedMeterData": "amet",
+            "signingMethod": "repr",
+            "encodingMethod": "sit",
+            "publicKey": "nostrud sunt pariatur"
+          },
+          "location": "Inlet",
+          "measurand": "Energy.Apparent.Net",
+          "customData": {
+            "vendorId": "pariatur"
+          },
+          "context": "Transaction.End"
+        }
+      ]
+    },
+    {
+      "timestamp": "1957-01-23T04:05:57.0Z",
+      "sampledValue": [
+        {
+          "value": 42314080.82419184,
+          "phase": "L2-N",
+          "location": "EV",
+          "unitOfMeasure": {
+            "unit": "vo",
+            "multiplier": -26649856
+          },
+          "context": "Other",
+          "signedMeterValue": {
+            "signedMeterData": "ut Duis in",
+            "signingMethod": "anim cillum ad",
+            "encodingMethod": "",
+            "publicKey": "culpa laborum est"
+          },
+          "customData": {
+            "vendorId": "eiusmod magna laborum pariatur tempor"
+          },
+          "measurand": "Energy.Reactive.Export.Register"
+        },
+        {
+          "value": 54971499.8721441,
+          "measurand": "Power.Reactive.Import",
+          "unitOfMeasure": {
+            "unit": "id anim mollit"
+          }
+        },
+        {
+          "value": -81776538.06289902,
+          "location": "Inlet",
+          "phase": "L3"
+        },
+        {
+          "value": -30669842.991160527,
+          "unitOfMeasure": {
+            "unit": "eiusmod",
+            "multiplier": 35160995
+          },
+          "phase": "L1-N",
+          "signedMeterValue": {
+            "signedMeterData": "esse consequat aliquip est",
+            "signingMethod": "veniam incididunt",
+            "encodingMethod": "proident dolore temp",
+            "publicKey": "laboris tempor proident dolor"
+          },
+          "measurand": "Energy.Active.Net",
+          "location": "EV",
+          "customData": {
+            "vendorId": "et incididunt enim adipisicing eiusmod"
+          },
+          "context": "Sample.Periodic"
+        }
+      ]
+    }
+  ],
+  "idToken": {
+    "idToken": "a",
+    "type": "Local"
+  },
+  "numberOfPhasesUsed": -44600507
+}

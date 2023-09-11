@@ -1,0 +1,9 @@
+{
+  "timestamp": "1969-07-24T11:26:11.0Z",
+  "connectorStatus": "Reserved",
+  "evseId": -66110945,
+  "connectorId": 79813582,
+  "customData": {
+    "vendorId": "voluptate culpa dolor"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "idTokenInfo": {
+    "status": "NotAtThisTime",
+    "cacheExpiryDateTime": "1949-07-17T23:40:36.0Z",
+    "evseId": [
+      36337716
+    ],
+    "language1": "",
+    "language2": "c",
+    "chargingPriority": -92489258,
+    "groupIdToken": {
+      "idToken": "cupidatat",
+      "type": "ISO14443",
+      "additionalInfo": [
+        {
+          "additionalIdToken": "veni",
+          "type": "do dol"
+        }
+      ],
+      "customData": {
+        "vendorId": "officia anim exercitation dolore"
+      }
+    },
+    "customData": {
+      "vendorId": "exercitation reprehenderit"
+    },
+    "personalMessage": {
+      "format": "HTML",
+      "content": "et magna in ea sunt",
+      "customData": {
+        "vendorId": "adipisicing"
+      },
+      "language": "ex"
+    }
+  },
+  "chargingPriority": 50527724,
+  "totalCost": 59007719.334650815,
+  "updatedPersonalMessage": {
+    "format": {},
+    "content": "non Duis"
+  },
+  "customData": {
+    "vendorId": "nulla non"
+  }
+}

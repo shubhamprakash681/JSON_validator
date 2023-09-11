@@ -1,0 +1,9 @@
+.ssh
+.cache
+.config
+.launchpadlib
+.local
+.bashrc
+.lesshst
+.profile
+.wget-hsts
